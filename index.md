@@ -110,7 +110,7 @@ I have been involved in state-of-the-art (SOTA) projects such as Meta Spoof (AR/
 
 - LinkedIn: [iulucan-ibrahim](https://www.linkedin.com/in/ulucan-ibrahim)
 - GitHub: [iulucan](https://github.com/iulucan)
-- Email: ggitechno@gmail.com
+- Email: [ggitechno@gmail.com](ggitechno@gmail.com)
 
 ---
 
