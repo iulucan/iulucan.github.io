@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Your Name — CV"
+title: "Ibrahim Ulucan — CV"
 permalink: /
 
-# Your Name
+# Ibrahim Ulucan
 
-**Your Title / Role** — Location  
-Email: you@example.com • [LinkedIn](https://linkedin.com/in/yourprofile) • [GitHub](https://github.com/your)
+**Software Developer**  
+[LinkedIn](https://www.linkedin.com/in/ulucan-ibrahim) • [GitHub](https://github.com/iulucan)
 
 ---
 
