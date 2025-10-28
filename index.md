@@ -33,7 +33,18 @@ Notably in Switzerland, I have contributed to research-driven AI projects such a
 ---
 
 ## Education
-- Degree, Program — School (Year)
+
+### University of Lausanne
+*School of French as a Foreign Language (EFLE)* | Switzerland, Lausanne  
+2022 - 2023
+
+### Middle East Technical University (METU)
+*Master of Science (MSc.) in GGIT (Information Technology)* | Turkey, Ankara  
+2018 - 2021
+
+### National Defence University
+*Bachelor (B.Sc.) in Electrical and Electronic Engineering (EEE)* | Turkey, Istanbul  
+2001 - 2005
 
 ---
 
