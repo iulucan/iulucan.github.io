@@ -25,6 +25,8 @@ With over a decade of experience in multinational environments, including govern
 
 Notably in Switzerland, I have contributed to research-driven AI projects such as AI Model Zoo, Meta Spoof with the Meta Quest Pro AR/VR headset (VRBiom), in-Car Biometrics, Aim-Gate, CarMen, and PopEye, utilizing state-of-the-art (SOTA) models and technologies.
 
+---
+
 ## Experience {#experience}
 
 ### Research Assistant
@@ -108,10 +110,10 @@ I have been involved in state-of-the-art (SOTA) projects such as Meta Spoof (AR/
 
 - LinkedIn: [iulucan-ibrahim](https://www.linkedin.com/in/ulucan-ibrahim)
 - GitHub: [iulucan](https://github.com/iulucan)
-- Email: you@example.com
+- Email: ggitechno@gmail.com
 
+---
 
-[## Publications {#publications}]
 ## Publications {#publications}
 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=kwY5i4oAAAAJ&hl=en)
