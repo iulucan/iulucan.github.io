@@ -65,17 +65,40 @@ Notably in Switzerland, I have contributed to research-driven AI projects such a
 ---
 
 ## Skills
-- Languages: Python, JavaScript, Go
-- Tools: Git, Docker, CI/CD
+
+### Technical Skills
+- Data Analysis / Science
+- Machine Learning, AI
+- Python (Advance)
+- GIS, ArcGIS, QGIS
+- Agisoft Metashape
+- Linux, AWS, Microsoft Azure
+- Cyber Security
+- DBMS, SQL
+- GitHub, GitLab
+
+### Languages
+- French: B2
+- English: C1
+- Turkish: Native
+
+### Interests
+- Athletics
+- Cycling
+- Tennis
+- Swimming
 
 ---
 
 ## Projects
-- [Project Name — short description and link: https://github.com/your/project](https://www.idiap.ch/~iulucan/)
+
+I have been involved in state-of-the-art (SOTA) projects such as Meta Spoof (AR/VR with the Meta Quest Pro headset), Stellantis, Rosalind, Soteria, and Model Zoo in a dynamic environment.
+
+[View Projects at IDIAP Research Institute](https://www.idiap.ch/en/scientific-research/projects)
 
 ---
 
-## Publications / Talks
-- Google Schooler 
-](https://scholar.google.com/citations?user=kwY5i4oAAAAJ&hl=en)
+## Publications
+[<img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" />](https://scholar.google.com/citations?user=kwY5i4oAAAAJ&hl=en)
+
 ---
