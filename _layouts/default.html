@@ -7,20 +7,32 @@
     <link rel="stylesheet" href="/assets/style.css">
 </head>
 <body>
-    <header>
-        <nav>
-            <a href="#about">About</a>
-            <a href="#experience">Experience</a>
-            <a href="#education">Education</a>
-            <a href="#skills">Skills</a>
-            <a href="#contact">Contact</a>
-        </nav>
-    </header>
-    <main>
-        {{ content }}
-    </main>
-    <footer>
-        <p>© 2025 Ibrahim Ulucan. All rights reserved.</p>
-    </footer>
+    <div class="site-wrapper">
+        <aside class="sidebar">
+            <div class="sidebar-inner">
+                <div class="profile">
+                    <img class="profile-img" src="/assets/profile.jpg" alt="Profile photo">
+                    <h1 class="name">ULUCAN IBRAHIM</h1>
+                    <p class="title">Data Scientist & GIS Software Specialist</p>
+                </div>
+                <nav class="sidebar-nav">
+                    <a href="#summary">About</a>
+                    <a href="#publications">Publications</a>
+                    <a href="#experience">Experience</a>
+                    <a href="#education">Education</a>
+                    <a href="#skills">Skills</a>
+                    <a href="#projects">Projects</a>
+                    <a href="#contact">Contact</a>
+                </nav>
+            </div>
+        </aside>
+
+        <main class="content">
+            {{ content }}
+            <footer>
+                <p>© 2025 Ibrahim Ulucan. All rights reserved.</p>
+            </footer>
+        </main>
+    </div>
 </body>
 </html>

@@ -15,36 +15,76 @@ body {
     background-color: var(--background-color);
 }
 
-header {
-    background-color: var(--primary-color);
-    padding: 1rem 0;
-    position: sticky;
-    top: 0;
-}
-
-nav {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 0 1rem;
+/* Layout: sidebar + content */
+.site-wrapper {
     display: flex;
-    justify-content: center;
-    gap: 2rem;
+    min-height: 100vh;
 }
 
-nav a {
+.sidebar {
+    width: 280px;
+    background: var(--primary-color);
     color: white;
+    padding: 2rem 1rem;
+    flex: 0 0 280px;
+}
+
+.sidebar-inner {
+    position: sticky;
+    top: 1.5rem;
+}
+
+.profile {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.profile-img {
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 6px solid rgba(255,255,255,0.12);
+    display: block;
+    margin: 0 auto 1rem auto;
+    background: #ddd;
+}
+
+.name {
+    font-size: 1.05rem;
+    letter-spacing: 1px;
+    margin: 0.25rem 0;
+}
+
+.title {
+    font-size: 0.9rem;
+    opacity: 0.9;
+    margin-bottom: 1rem;
+}
+
+.sidebar-nav {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    margin-top: 1rem;
+}
+
+.sidebar-nav a {
+    color: rgba(255,255,255,0.95);
     text-decoration: none;
-    font-weight: 500;
+    font-weight: 600;
+    padding: 0.35rem 0.5rem;
+    border-radius: 4px;
 }
 
-nav a:hover {
-    color: var(--secondary-color);
+.sidebar-nav a:hover {
+    background: rgba(255,255,255,0.06);
 }
 
-main {
-    max-width: 1200px;
-    margin: 2rem auto;
-    padding: 0 1rem;
+.content {
+    flex: 1 1 auto;
+    padding: 2rem 3rem;
+    max-width: 1000px;
 }
 
 section {
@@ -70,13 +110,19 @@ footer {
     color: white;
     text-align: center;
     padding: 1rem 0;
-    /* Use normal document flow so footer doesn't overlap content */
-    position: relative;
+    margin-top: 3rem;
 }
 
-/* Ensure the page content doesn't get hidden behind the footer on small screens */
-main {
-    max-width: 1200px;
-    margin: 2rem auto;
-    padding: 0 1rem 4rem; /* extra bottom padding to avoid overlap */
+/* Responsive: collapse sidebar on small screens */
+@media (max-width: 900px) {
+    .site-wrapper {
+        flex-direction: column;
+    }
+    .sidebar {
+        width: 100%;
+        padding: 1.25rem;
+    }
+    .sidebar-inner { position: static; }
+    .content { padding: 1.25rem; }
 }
+

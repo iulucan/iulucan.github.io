@@ -5,21 +5,21 @@ permalink: /
 
 # Ibrahim Ulucan
 
-**Software Developer**  
+**Data Scientist & GIS Software Specialist**  
 [LinkedIn](https://www.linkedin.com/in/ulucan-ibrahim) • [GitHub](https://github.com/iulucan)
 
 [Download CV (PDF)](/assets/Profile.pdf)
 
 ---
 
-## Summary
+## Summary {#summary}
 With over a decade of experience in multinational environments, including governmental and commercial sectors, I specialize in information systems, combining an interest in research with technical and programming skills in data engineering and analysis. I have also worked with various data (high-dimensional satellite, aerial-drone data, etc.) and GIS (Geographic Information Systems) software.
 
 Notably in Switzerland, I have contributed to research-driven AI projects such as AI Model Zoo, Meta Spoof with the Meta Quest Pro AR/VR headset (VRBiom), in‑Car Biometrics, Aim‑Gate, CarMen, and PopEye, utilizing state-of-the-art (SOTA) models and technologies.
 
 ---
 
-## Experience
+## Experience {#experience}
 
 ### Research Assistant
 *IDIAP Research Institute* | Switzerland | 2023 - Present
@@ -48,7 +48,7 @@ Notably in Switzerland, I have contributed to research-driven AI projects such a
 
 ---
 
-## Education
+## Education {#education}
 
 ### University of Lausanne
 *School of French as a Foreign Language (EFLE)* | Switzerland, Lausanne  
@@ -64,7 +64,7 @@ Notably in Switzerland, I have contributed to research-driven AI projects such a
 
 ---
 
-## Skills
+## Skills {#skills}
 
 ### Technical Skills
 - Data Analysis / Science
@@ -90,7 +90,7 @@ Notably in Switzerland, I have contributed to research-driven AI projects such a
 
 ---
 
-## Projects
+## Projects {#projects}
 
 I have been involved in state-of-the-art (SOTA) projects such as Meta Spoof (AR/VR with the Meta Quest Pro headset), Stellantis, Rosalind, Soteria, and Model Zoo in a dynamic environment.
 
@@ -98,7 +98,9 @@ I have been involved in state-of-the-art (SOTA) projects such as Meta Spoof (AR/
 
 ---
 
-## Publications
-[<img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" />](https://scholar.google.com/citations?user=kwY5i4oAAAAJ&hl=en)
+[## Publications {#publications}]
+## Publications {#publications}
+
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=kwY5i4oAAAAJ&hl=en)
 
 ---
