@@ -21,14 +21,30 @@ Notably in Switzerland, I have contributed to research-driven AI projects such a
 
 ## Experience
 
-### Job Title — Company
-*Dates (e.g., 2020–Present)*
-- Brief accomplishment or responsibility.
-- Another bullet with metrics (e.g., "Reduced build time by 40%").
+### Research Assistant
+*IDIAP Research Institute* | Switzerland | 2023 - Present
+- Contributed to AI-based biometric application testing and evaluation (including Face Detection and Voice PAD) at the Swiss Biometrics Center, optimizing data processing pipelines and script management workflows via GitLab repo, aligned with ISO and FIDO standards
+- Managed model zoos and applied machine learning algorithms using Python libraries (PyTorch, Matplotlib, Scikit-learn, etc.)
 
-### Previous Title — Previous Company
-*Dates*
-- Achievements, responsibilities.
+### Data Engineer
+*Sitemark* | Belgium | 2020 - 2022
+- Detected and classified anomalies in solar panel systems with drone images
+- Built and evaluated 3D models while also providing IT consulting
+- Developed large-scale datasets (Orthomosaic) and Azure cloud computing
+
+### GIS Software Specialist
+*Ministry of National Defense* | Turkey | 2014 - 2019
+- Managed and coordinated remote sensing platforms, including drones and satellites, along with related software systems
+- Processed and visualized spatial data across various formats (e.g., geospatial databases, shapefiles)
+
+### Imagery Analyst
+*NATO* | England | 2013 - 2014
+- Analyzed remote sensing products (drone and satellite imagery) as part of humanitarian aid operations within the organization
+
+### Electronic Officer
+*Turkish Navy* | Turkey | 2005 - 2013
+- Managed critical electronic systems (RADAR, navigation systems, satellites, etc.) on naval warships and led a technical team
+- Attended modernization projects including testing, and evaluation
 
 ---
 
@@ -55,11 +71,11 @@ Notably in Switzerland, I have contributed to research-driven AI projects such a
 ---
 
 ## Projects
-- Project Name — short description and link: https://github.com/your/project
+- [Project Name — short description and link: https://github.com/your/project](https://www.idiap.ch/~iulucan/)
 
 ---
 
 ## Publications / Talks
-- Title — Event (Year)
-
+- Google Schooler 
+](https://scholar.google.com/citations?user=kwY5i4oAAAAJ&hl=en)
 ---
