@@ -70,7 +70,13 @@ footer {
     color: white;
     text-align: center;
     padding: 1rem 0;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
+    /* Use normal document flow so footer doesn't overlap content */
+    position: relative;
+}
+
+/* Ensure the page content doesn't get hidden behind the footer on small screens */
+main {
+    max-width: 1200px;
+    margin: 2rem auto;
+    padding: 0 1rem 4rem; /* extra bottom padding to avoid overlap */
 }
