@@ -8,7 +8,7 @@ permalink: /
 	<div class="hero-left-placeholder" aria-hidden="true"></div>
 	<div class="hero-card">
 		<h1 class="hero-name">ULUCAN IBRAHIM</h1>
-		<div class="hero-title">Data Scientist & GIS Software Specialist</div>
+		<div class="hero-title">Data Scientist</div>
 		<p class="hero-text">With over a decade of experience in multinational environments, including governmental and commercial sectors, I specialize in information systems, combining an interest in research with technical and programming skills in data engineering and analysis. I have also worked with various data (high-dimensional satellite, aerial-drone data, etc.) and GIS (Geographic Information Systems) software.</p>
 		<p class="hero-text">Notably in Switzerland, I have contributed to research-driven AI projects such as AI Model Zoo, Meta Spoof with the Meta Quest Pro AR/VR headset (VRBiom), in‑Car Biometrics, Aim‑Gate, CarMen, and PopEye, utilizing state-of-the-art (SOTA) models and technologies.</p>
 		<p style="margin-top:1rem;"><a href="/assets/Profile.pdf" class="contact-link">Download CV (PDF)</a></p>
@@ -17,7 +17,13 @@ permalink: /
 
 ---
 
-## Summary {#summary}
+## ULUCAN IBRAHIM {#summary}
+
+### Data Scientist
+
+With over a decade of experience in multinational environments, including governmental and commercial sectors, I specialize in information systems, combining an interest in research with technical and programming skills in data engineering and analysis. I also worked various data (high-dimensional satellite, aerial-drone data, etc.) with GIS (Geographic Information Systems) software.
+
+Notably in Switzerland, I have contributed to research-driven AI projects such as AI Model Zoo, Meta Spoof with the Meta Quest Pro AR/VR headset (VRBiom), in-Car Biometrics, Aim-Gate, CarMen, and PopEye, utilizing state-of-the-art (SOTA) models and technologies.
 
 ## Experience {#experience}
 
